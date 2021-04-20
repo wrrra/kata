@@ -5,4 +5,4 @@
 ## 20 April 2021 
 - [x] [1_Square_Every_Digit.js](https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript)
 - [x] [2_Printer_Errors.js](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript)
-- [ ] [3_Split_Strings.js](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript)
+- [x] [3_Split_Strings.js](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript)
