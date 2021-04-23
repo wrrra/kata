@@ -6,3 +6,7 @@
 - [x] [1_Square_Every_Digit.js](https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript)
 - [x] [2_Printer_Errors.js](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript)
 - [x] [3_Split_Strings.js](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript)
+## 22 April 2021
+- [x] [1_Counting_Duplicates.js](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/javascript)
+## 23 April 2021
+- [x] [1_Moving_Zeros_To_The_End.js](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript)
